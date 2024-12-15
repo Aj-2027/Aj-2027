@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Akriti
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m Aspiring Android Developer
 - 📫 To reach me jakriti@gmail.com
+
   
 
 <!---
